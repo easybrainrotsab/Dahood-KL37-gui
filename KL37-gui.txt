@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/easybrainrotsab/Dahood-KL37-gui/refs/heads/main/KL37-gui%202.2.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/easybrainrotsab/Dahood-KL37-gui/refs/heads/main/KL37-2.3.txt"))()
 -- https://discord.gg/cvDng5dymK
